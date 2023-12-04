@@ -12,9 +12,6 @@ namespace TP1.Models
         public List<string> RepairWith { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? UpdatedDate { get; set; }
-        public Item()
-		{
-		}
 	}
 }
 

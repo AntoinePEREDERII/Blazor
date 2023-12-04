@@ -1,0 +1,254 @@
+﻿[
+  {
+    "id": 1,
+    "displayname": "Comdom",
+    "name": "comdom",
+    "stacksize": 56,
+    "maxdurability": 82,
+    "enchantcategories": [
+      "vanishable"
+    ],
+    "repairwith": [
+      "birch_planks"
+    ],
+    "createddate": "2015-11-03",
+    "updateddate": null
+  },
+  {
+    "id": 2,
+    "displayname": "Escenta",
+    "name": "escenta",
+    "stacksize": 41,
+    "maxdurability": 124,
+    "enchantcategories": [
+      "digger",
+      "digger"
+    ],
+    "repairwith": [
+      "acacia_planks",
+      "dark_oak_planks"
+    ],
+    "createddate": "2020-07-04",
+    "updateddate": null
+  },
+  {
+    "id": 3,
+    "displayname": "Thredz",
+    "name": "thredz",
+    "stacksize": 46,
+    "maxdurability": 102,
+    "enchantcategories": [
+      "armor_chest",
+      "weapon",
+      "armor_head"
+    ],
+    "repairwith": [
+      "jungle_planks",
+      "jungle_planks"
+    ],
+    "createddate": "2015-07-16",
+    "updateddate": "2016-09-08"
+  },
+  {
+    "id": 4,
+    "displayname": "Endicil",
+    "name": "endicil",
+    "stacksize": 7,
+    "maxdurability": 102,
+    "enchantcategories": [
+      "weapon",
+      "armor",
+      "armor_chest"
+    ],
+    "repairwith": [
+      "dark_oak_planks"
+    ],
+    "createddate": "2015-10-24",
+    "updateddate": null
+  },
+  {
+    "id": 5,
+    "displayname": "Petigems",
+    "name": "petigems",
+    "stacksize": 8,
+    "maxdurability": 40,
+    "enchantcategories": [
+      "armor_head",
+      "weapon",
+      "breakable"
+    ],
+    "repairwith": [
+      "spruce_planks"
+    ],
+    "createddate": "2017-10-05",
+    "updateddate": "2015-01-13"
+  },
+  {
+    "id": 6,
+    "displayname": "Buzzness",
+    "name": "buzzness",
+    "stacksize": 1,
+    "maxdurability": 86,
+    "enchantcategories": [
+      "breakable"
+    ],
+    "repairwith": [
+      "jungle_planks",
+      "acacia_planks"
+    ],
+    "createddate": "2020-12-03",
+    "updateddate": null
+  },
+  {
+    "id": 7,
+    "displayname": "Chorizon",
+    "name": "chorizon",
+    "stacksize": 19,
+    "maxdurability": 61,
+    "enchantcategories": [
+      "vanishable",
+      "armor"
+    ],
+    "repairwith": [],
+    "createddate": "2023-11-21",
+    "updateddate": null
+  },
+  {
+    "id": 8,
+    "displayname": "Nebulean",
+    "name": "nebulean",
+    "stacksize": 4,
+    "maxdurability": 16,
+    "enchantcategories": [
+      "weapon",
+      "armor_head"
+    ],
+    "repairwith": [],
+    "createddate": "2017-06-10",
+    "updateddate": null
+  },
+  {
+    "id": 9,
+    "displayname": "Terrago",
+    "name": "terrago",
+    "stacksize": 45,
+    "maxdurability": 88,
+    "enchantcategories": [],
+    "repairwith": [
+      "spruce_planks"
+    ],
+    "createddate": "2016-02-05",
+    "updateddate": "2021-02-12"
+  },
+  {
+    "id": 10,
+    "displayname": "Pivitol",
+    "name": "pivitol",
+    "stacksize": 60,
+    "maxdurability": 1,
+    "enchantcategories": [],
+    "repairwith": [
+      "spruce_planks"
+    ],
+    "createddate": "2022-05-08",
+    "updateddate": "2022-10-25"
+  },
+  {
+    "id": 11,
+    "displayname": "Aquasseur",
+    "name": "aquasseur",
+    "stacksize": 63,
+    "maxdurability": 43,
+    "enchantcategories": [
+      "digger"
+    ],
+    "repairwith": [],
+    "createddate": "2016-03-19",
+    "updateddate": null
+  },
+  {
+    "id": 12,
+    "displayname": "Zillanet",
+    "name": "zillanet",
+    "stacksize": 12,
+    "maxdurability": 31,
+    "enchantcategories": [],
+    "repairwith": [
+      "oak_planks"
+    ],
+    "createddate": "2021-08-02",
+    "updateddate": null
+  },
+  {
+    "id": 13,
+    "displayname": "Eventex",
+    "name": "eventex",
+    "stacksize": 38,
+    "maxdurability": 108,
+    "enchantcategories": [
+      "weapon",
+      "armor_chest",
+      "breakable"
+    ],
+    "repairwith": [
+      "oak_planks"
+    ],
+    "createddate": "2015-06-26",
+    "updateddate": null
+  },
+  {
+    "id": 14,
+    "displayname": "Zytrex",
+    "name": "zytrex",
+    "stacksize": 39,
+    "maxdurability": 17,
+    "enchantcategories": [
+      "weapon"
+    ],
+    "repairwith": [
+      "crimson_planks"
+    ],
+    "createddate": "2021-04-26",
+    "updateddate": "2023-06-05"
+  },
+  {
+    "id": 15,
+    "displayname": "Zappix",
+    "name": "zappix",
+    "stacksize": 35,
+    "maxdurability": 10,
+    "enchantcategories": [],
+    "repairwith": [
+      "dark_oak_planks"
+    ],
+    "createddate": "2017-03-25",
+    "updateddate": null
+  },
+  {
+    "id": 16,
+    "displayname": "Cuizine",
+    "name": "cuizine",
+    "stacksize": 11,
+    "maxdurability": 45,
+    "enchantcategories": [],
+    "repairwith": [
+      "jungle_planks"
+    ],
+    "createddate": "2016-05-09",
+    "updateddate": null
+  },
+  {
+    "id": 17,
+    "displayname": "Frenex",
+    "name": "frenex",
+    "stacksize": 56,
+    "maxdurability": 49,
+    "enchantcategories": [],
+    "repairwith": [
+      "dark_oak_planks",
+      "spruce_planks"
+    ],
+    "createddate": "2023-09-14",
+    "updateddate": null
+  }
+]

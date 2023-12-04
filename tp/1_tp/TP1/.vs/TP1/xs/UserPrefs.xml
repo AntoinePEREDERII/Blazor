@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{B11EFE1F-77B3-4A91-B5F1-C1C7E56854FD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TP1 PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP1/Pages/List.razor.cs">
+    <Files>
+      <File FileName="TP1/Pages/List.razor" />
+      <File FileName="TP1/Pages/List.razor.cs" Line="16" Column="9" />
+      <File FileName="TP1/Shared/NavMenu.razor" />
+      <File FileName="TP1/Shared/NavMenu.razor.css" />
+      <File FileName="TP1/Shared/DoctorWhoLayout.razor" />
+      <File FileName="TP1/Program.cs" />
+      <File FileName="TP1/appsettings.json" />
+      <File FileName="TP1/App.razor" />
+      <File FileName="TP1/_Imports.razor" />
+      <File FileName="TP1/Pages/Episodes.razor" />
+      <File FileName="TP1/wwwroot/fake-data.json" />
+      <File FileName="TP1/Models/Item.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP1" expanded="True">
+            <Node name="TP1">
+              <Node name="Pages" expanded="True">
+                <Node name="List.razor" expanded="True">
+                  <Node name="List.razor.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Shared" expanded="True">
+                <Node name="NavMenu.razor" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -47,3 +47,13 @@
 /Users/Perederii/Blazor/tp/1_tp/TP1/TP1/bin/Debug/net6.0/System.IO.Pipelines.dll
 /Users/Perederii/Blazor/tp/1_tp/TP1/TP1/obj/Debug/net6.0/TP1.csproj.CopyComplete
 /Users/Perederii/Blazor/tp/1_tp/TP1/TP1/bin/Debug/net6.0/Blazored.LocalStorage.dll
+/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/bin/Debug/net6.0/Blazored.Modal.dll
+/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/bin/Debug/net6.0/Microsoft.JSInterop.WebAssembly.dll
+/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/bin/Debug/net6.0/fr-FR/TP1.resources.dll
+/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/obj/Debug/net6.0/TP1.Resources.Pages.List.fr-FR.resources
+/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/obj/Debug/net6.0/TP1.csproj.GenerateResource.cache
+/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/obj/Debug/net6.0/fr-FR/TP1.resources.cs
+/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/obj/Debug/net6.0/fr-FR/TP1.resources.dll
+/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/obj/Debug/net6.0/TP1.Resources.Pages.List.resources
+/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/obj/Debug/net6.0/scopedcss/Components/Crafting.razor.rz.scp.css
+/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/obj/Debug/net6.0/scopedcss/Components/CraftingItem.razor.rz.scp.css

@@ -1,3 +1,32 @@
+@import '_content/Blazored.Modal/Blazored.Modal.bundle.scp.css';
+
+/* _content/TP1/Components/Crafting.razor.rz.scp.css */
+.css-grid[b-yc005xsw2j] {
+    grid-template-columns: repeat(4,minmax(0,1fr));
+    gap: 10px;
+    display: grid;
+    width: 286px;
+}
+
+.css-recipe[b-yc005xsw2j] {
+    grid-template-columns: repeat(3,minmax(0,1fr));
+    gap: 10px;
+    display: grid;
+    width: 212px;
+}
+
+.actions[b-yc005xsw2j] {
+    border: 1px solid black;
+    height: 250px;
+    overflow: scroll;
+}
+/* _content/TP1/Components/CraftingItem.razor.rz.scp.css */
+.item[b-suljg4m2w9] {
+    width: 64px;
+    height: 64px;
+    border: 1px solid;
+    overflow: hidden;
+}
 /* _content/TP1/Shared/MainLayout.razor.rz.scp.css */
 .page[b-cl5jrzzv4y] {
     position: relative;

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dYjK83xaUjDc17eit76e7poZdfQgIwJS0cn8wJaoPwY=",
+  "Hash": "XIPXZX6PZwmBWPnTCd3xNPPdtR/rmV9pDRwbKmfurz0=",
   "Source": "TP1",
   "BasePath": "_content/TP1",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/Perederii/.nuget/packages/blazored.modal/7.1.0/staticwebassets/Blazored.Modal.bundle.scp.css",
+      "SourceId": "Blazored.Modal",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/Perederii/.nuget/packages/blazored.modal/7.1.0/staticwebassets/",
+      "BasePath": "_content/Blazored.Modal",
+      "RelativePath": "Blazored.Modal.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/Perederii/.nuget/packages/blazored.modal/7.1.0/staticwebassets/Blazored.Modal.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/Perederii/.nuget/packages/blazored.modal/7.1.0/staticwebassets/BlazoredModal.razor.js",
+      "SourceId": "Blazored.Modal",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/Perederii/.nuget/packages/blazored.modal/7.1.0/staticwebassets/",
+      "BasePath": "_content/Blazored.Modal",
+      "RelativePath": "BlazoredModal.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/Perederii/.nuget/packages/blazored.modal/7.1.0/staticwebassets/BlazoredModal.razor.js"
+    },
     {
       "Identity": "/Users/Perederii/.nuget/packages/blazorise.bootstrap/1.3.3/staticwebassets/blazorise.bootstrap.css",
       "SourceId": "Blazorise.Bootstrap",
@@ -714,6 +748,23 @@
       "OriginalItemSpec": "/Users/Perederii/.nuget/packages/blazorise/1.3.3/staticwebassets/vendors/sha512.js"
     },
     {
+      "Identity": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Components/Crafting.razor.js",
+      "SourceId": "TP1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/",
+      "BasePath": "_content/TP1",
+      "RelativePath": "Components/Crafting.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "Components/Crafting.razor.js"
+    },
+    {
       "Identity": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/obj/Debug/net6.0/scopedcss/bundle/TP1.styles.css",
       "SourceId": "TP1",
       "SourceType": "Computed",
@@ -1003,6 +1054,23 @@
       "OriginalItemSpec": "wwwroot/images/default.png"
     },
     {
+      "Identity": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/wwwroot/images/halo.png",
+      "SourceId": "TP1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/wwwroot/",
+      "BasePath": "_content/TP1",
+      "RelativePath": "images/halo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/halo.png"
+    },
+    {
       "Identity": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/wwwroot/images/hello.png",
       "SourceId": "TP1",
       "SourceType": "Discovered",
@@ -1018,6 +1086,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/hello.png"
+    },
+    {
+      "Identity": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/wwwroot/images/petigms.png",
+      "SourceId": "TP1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/wwwroot/",
+      "BasePath": "_content/TP1",
+      "RelativePath": "images/petigms.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/petigms.png"
     }
   ]
 }

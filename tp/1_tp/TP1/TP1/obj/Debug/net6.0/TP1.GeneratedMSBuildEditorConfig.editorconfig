@@ -20,6 +20,18 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Components/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9DYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Components/ShowItems.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaG93SXRlbXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Modals/DeleteConfirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kYWxzL0RlbGV0ZUNvbmZpcm1hdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Pages/Add.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,8 +44,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Pages/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Pages/Episodes.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXBpc29kZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Pages/ExempleTabSet.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhlbXBsZVRhYlNldC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Pages/FetchData.razor]
@@ -48,17 +68,73 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Pages/ParameterParent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFyYW1ldGVyUGFyZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Pages/ParameterParent2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFyYW1ldGVyUGFyZW50Mi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Pages/ParameterParent3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFyYW1ldGVyUGFyZW50My5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Pages/Pets1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGV0czEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Pages/RouteParameter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUm91dGVQYXJhbWV0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Pages/ThemedCounter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGhlbWVkQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Pages/User.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Shared/CultureSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0N1bHR1cmVTZWxlY3Rvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Shared/DoctorWhoLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0RvY3Rvcldob0xheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Shared/ParameterChild.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1BhcmFtZXRlckNoaWxkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Shared/Tab.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1RhYi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Shared/TableTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1RhYmxlVGVtcGxhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Shared/TabSet.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1RhYlNldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Components/Crafting.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9DcmFmdGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-yc005xsw2j
+
+[/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Components/CraftingItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9DcmFmdGluZ0l0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-suljg4m2w9
 
 [/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=

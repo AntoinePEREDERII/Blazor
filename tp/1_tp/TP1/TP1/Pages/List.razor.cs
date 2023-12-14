@@ -1,8 +1,13 @@
 ﻿using System;
 using Blazored.LocalStorage;
+using Blazored.Modal;
+using Blazored.Modal.Services;
 using Blazorise.DataGrid;
 using Microsoft.AspNetCore.Components;
+using Microsoft.Extensions.Localization;
+using TP1.Modals;
 using TP1.Models;
+using TP1.Services;
 
 namespace TP1.Pages
 {
@@ -19,10 +24,19 @@ namespace TP1.Pages
         public NavigationManager NavigationManager { get; set; }
 
         [Inject]
+        public IDataService DataService { get; set; }
+
+        [Inject]
         public IWebHostEnvironment WebHostEnvironment { get; set; }
 
         [Inject]
+        public IStringLocalizer<List> Localizer { get; set; }
+
+        [Inject]
         public ILocalStorageService LocalStorage { get; set; }
+
+        [CascadingParameter]
+        public IModalService Modal { get; set; }
 
         protected override async Task OnAfterRenderAsync(bool firstRender)
         {
@@ -50,15 +64,30 @@ namespace TP1.Pages
                 return;
             }
 
-            // When you use a real API, we use this follow code
-            //var response = await Http.GetJsonAsync<Data[]>( $"http://my-api/api/data?page={e.Page}&pageSize={e.PageSize}" );
-            var response = (await LocalStorage.GetItemAsync<Item[]>("data")).Skip((e.Page - 1) * e.PageSize).Take(e.PageSize).ToList();
-
             if (!e.CancellationToken.IsCancellationRequested)
             {
-                totalItem = (await LocalStorage.GetItemAsync<List<Item>>("data")).Count;
-                items = new List<Item>(response); // an actual data for the current page
+                items = await DataService.List(e.Page, e.PageSize);
+                totalItem = await DataService.Count();
             }
+        }
+
+        private async void OnDelete(int id)
+        {
+            var parameters = new ModalParameters();
+            parameters.Add(nameof(Item.Id), id);
+
+            var modal = Modal.Show<DeleteConfirmation>("Delete Confirmation", parameters);
+            var result = await modal.Result;
+
+            if (result.Cancelled)
+            {
+                return;
+            }
+
+            await DataService.Delete(id);
+
+            // Reload the page
+            NavigationManager.NavigateTo("list", true);
         }
     }
 }

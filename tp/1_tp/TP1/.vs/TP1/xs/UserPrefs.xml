@@ -1,51 +1,44 @@
 ﻿<Properties StartupConfiguration="{B11EFE1F-77B3-4A91-B5F1-C1C7E56854FD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP1/Pages/List.razor">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP1/Pages/Index.razor">
     <Files>
-      <File FileName="TP1/Pages/List.razor" Line="15" Column="24" />
-      <File FileName="TP1/Pages/List.razor.cs" Line="22" Column="68" />
-      <File FileName="TP1/Shared/NavMenu.razor" />
-      <File FileName="TP1/Shared/NavMenu.razor.css" />
-      <File FileName="TP1/Shared/DoctorWhoLayout.razor" />
-      <File FileName="TP1/Program.cs" Line="19" Column="44" />
-      <File FileName="TP1/appsettings.json" />
-      <File FileName="TP1/App.razor" Line="8" Column="10" />
-      <File FileName="TP1/_Imports.razor" Line="11" Column="26" />
-      <File FileName="TP1/Pages/Episodes.razor" />
-      <File FileName="TP1/wwwroot/fake-data.json" Line="1" Column="1" />
-      <File FileName="TP1/Models/Item.cs" Line="12" Column="29" />
-      <File FileName="TP1/Pages/_Layout.cshtml" Line="34" Column="90" />
-      <File FileName="TP1/Pages/Add.razor" Line="69" Column="12" />
-      <File FileName="TP1/Pages/Add.razor.cs" Line="77" Column="1" />
-      <File FileName="TP1/Pages/BlazorRoute.razor" Line="5" Column="8" />
-      <File FileName="TP1/Models/ItemModels.cs" Line="37" Column="6" />
+      <File FileName="TP1/Pages/List.razor" />
+      <File FileName="TP1/Components/Crafting.razor" />
+      <File FileName="TP1/Components/Crafting.razor.cs" />
+      <File FileName="TP1/Components/Crafting.razor.css" />
+      <File FileName="TP1/Components/Crafting.razor.js" />
+      <File FileName="TP1/Services/IDataService.cs" />
+      <File FileName="TP1/Services/DataLocalService.cs" />
+      <File FileName="TP1/Pages/Index.razor" Line="11" Column="5" />
+      <File FileName="TP1/Pages/Index.razor.cs" />
+      <File FileName="TP1/Pages/_Layout.cshtml" />
+      <File FileName="TP1/Components/Card.razor.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TP1" expanded="True">
-            <Node name="TP1">
-              <Node name="Pages">
-                <Node name="Add.razor" expanded="True" />
-                <Node name="List.razor" expanded="True" selected="True" />
+            <Node name="TP1" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.razor" selected="True" />
+                <Node name="List.razor" expanded="True" />
               </Node>
-              <Node name="Shared" expanded="True">
-                <Node name="NavMenu.razor" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Pages.List.resx" expanded="True" />
               </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="images" expanded="True" />
-              </Node>
-              <Node name="appsettings.json" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Shared" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TP1 PreferredExecutionTarget="/Applications/Arc.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TP1 PreferredExecutionTarget="/Applications/Arc.app" />
 </Properties>

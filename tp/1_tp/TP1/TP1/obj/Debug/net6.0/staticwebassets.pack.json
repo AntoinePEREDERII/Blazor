@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/Components/Crafting.razor.js",
+      "PackagePath": "staticwebassets/Components/Crafting.razor.js"
+    },
+    {
       "Id": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/obj/Debug/net6.0/scopedcss/projectbundle/TP1.bundle.scp.css",
       "PackagePath": "staticwebassets/TP1.bundle.scp.css"
     },
@@ -65,8 +69,16 @@
       "PackagePath": "staticwebassets/images/default.png"
     },
     {
+      "Id": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/wwwroot/images/halo.png",
+      "PackagePath": "staticwebassets/images/halo.png"
+    },
+    {
       "Id": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/wwwroot/images/hello.png",
       "PackagePath": "staticwebassets/images/hello.png"
+    },
+    {
+      "Id": "/Users/Perederii/Blazor/tp/1_tp/TP1/TP1/wwwroot/images/petigms.png",
+      "PackagePath": "staticwebassets/images/petigms.png"
     },
     {
       "Id": "obj/Debug/net6.0/staticwebassets/msbuild.TP1.Microsoft.AspNetCore.StaticWebAssets.props",

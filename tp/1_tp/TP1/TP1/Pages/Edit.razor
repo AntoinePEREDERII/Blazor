@@ -7,6 +7,13 @@
     <ValidationSummary />
 
     <p>
+        <label>
+            Current Item image:
+            <img src="data:image/png;base64, @(itemModel.ImageBase64)" class="img-thumbnail" title="@itemModel.DisplayName" alt="@itemModel.DisplayName" style="min-width: 50px; max-width: 150px" />
+        </label>
+    </p>
+
+    <p>
         <label for="display-name">
             Display name:
             <InputText id="display-name" @bind-Value="itemModel.DisplayName" />

@@ -22,6 +22,8 @@ builder.Services.AddFontAwesomeIcons();
 builder.Services.AddBlazoredLocalStorage();
 builder.Services.AddScoped<IDataService, DataLocalService>();
 builder.Services.AddBlazoredModal();
+builder.Services.AddScoped<IDataService, DataApiService>();
+
 // Add the controller of the app
 builder.Services.AddControllers();
 

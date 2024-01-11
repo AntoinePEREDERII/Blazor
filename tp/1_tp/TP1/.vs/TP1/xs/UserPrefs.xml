@@ -1,10 +1,14 @@
-﻿<Properties StartupConfiguration="{B11EFE1F-77B3-4A91-B5F1-C1C7E56854FD}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP1/Pages/Index.razor">
+﻿<Properties StartupConfiguration="MyProperty">
+  <MonoDevelop.Ide.ItemProperties.Minecraft.Crafting.Api PreferredExecutionTarget="/Applications/Arc.app" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="MyProperty" Name="MyProperty">
+      <Items>
+        <StartupItem ItemId="{1D1B1606-55C9-4A4D-B8D4-FC453F47964B}" ItemName="Minecraft.Crafting.Api" ConfigurationId="Default" />
+        <StartupItem ItemId="{B11EFE1F-77B3-4A91-B5F1-C1C7E56854FD}" ItemName="TP1" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP1/Program.cs">
     <Files>
       <File FileName="TP1/Pages/List.razor" />
       <File FileName="TP1/Components/Crafting.razor" />
@@ -13,32 +17,37 @@
       <File FileName="TP1/Components/Crafting.razor.js" />
       <File FileName="TP1/Services/IDataService.cs" />
       <File FileName="TP1/Services/DataLocalService.cs" />
-      <File FileName="TP1/Pages/Index.razor" Line="11" Column="5" />
+      <File FileName="TP1/Pages/Index.razor" />
       <File FileName="TP1/Pages/Index.razor.cs" />
       <File FileName="TP1/Pages/_Layout.cshtml" />
       <File FileName="TP1/Components/Card.razor.cs" />
+      <File FileName="TP1/Pages/List.razor.cs" />
+      <File FileName="TP1/Pages/Edit.razor.cs" />
+      <File FileName="TP1/Models/Item.cs" />
+      <File FileName="TP1/Models/ItemModels.cs" />
+      <File FileName="TP1/Models/Cake.cs" />
+      <File FileName="TP1/Factories/ItemFactory.cs" />
+      <File FileName="TP1/Pages/Edit.razor" />
+      <File FileName="TP1/Services/DataApiService.cs" />
+      <File FileName="TP1/Program.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TP1" expanded="True">
             <Node name="TP1" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Index.razor" selected="True" />
-                <Node name="List.razor" expanded="True" />
-              </Node>
-              <Node name="Properties" expanded="True" />
-              <Node name="Resources" expanded="True">
-                <Node name="Pages.List.resx" expanded="True" />
-              </Node>
-              <Node name="Services" expanded="True" />
-              <Node name="Shared" expanded="True" />
+              <Node name="Pages" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.TP1 PreferredExecutionTarget="/Applications/Arc.app" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

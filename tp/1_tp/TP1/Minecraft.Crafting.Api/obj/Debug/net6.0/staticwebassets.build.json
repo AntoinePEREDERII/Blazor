@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ETazya79UumTcAd0+iL4jLXjH/4zIbTPGw4qCCWAl2M=",
+  "Source": "Minecraft.Crafting.Api",
+  "BasePath": "_content/Minecraft.Crafting.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
